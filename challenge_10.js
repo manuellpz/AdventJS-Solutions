@@ -25,7 +25,6 @@ const height = 3;
 
 function createChristmasTree(ornaments, height) {
   let initialSpaces = height - 1;
-  let spaces = 0;
   let tree = "";
   let aux = 0;
 
